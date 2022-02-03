@@ -6,5 +6,4 @@ import (
 
 func main() {
 	fmt.Println("Torpedo module")
-	fmt.Println(twire.getName())
 }
