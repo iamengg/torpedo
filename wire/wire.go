@@ -1,9 +1,9 @@
 package wire
 
-import(
+import (
+	"fmt"
 	"github.com/google/wire"
 )
-
-func getName() string{
-	return "module : wire";
+func GetName() string {
+	return "module : wire"
 }

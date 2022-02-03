@@ -7,4 +7,4 @@ require github.com/google/wire v0.5.0
 
 replace github.com/google/wire@latest => github.com/iamengg/wire
 
-replace github.com/rs/zerolog/@latest => github.com/iamengg/wire
+replace github.com/rs/zerolog/@latest => github.com/iamengg/zerolog
