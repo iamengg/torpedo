@@ -1,4 +1,4 @@
-module torpedo
+module github.com/iamengg/torpedo
 
 go 1.17
 
